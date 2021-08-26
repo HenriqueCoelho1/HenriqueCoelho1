@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![HenriqueCoelho1 stats](https://github-readme-stats.vercel.app/api?username=HenriqueCoelho1&show_icons=true&theme=radical)
+![HenriqueCoelho1 stats](https://github-readme-stats.vercel.app/api?username=HenriqueCoelho1&show_icons=true&theme=synthwave)
 
 <!--
 **HenriqueCoelho1/HenriqueCoelho1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
